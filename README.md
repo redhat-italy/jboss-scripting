@@ -1,1 +1,2 @@
-# jboss-scripting
+# JBoss Scripting
+
